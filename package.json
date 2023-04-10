@@ -1,0 +1,23 @@
+{
+  "name": "outline-portal",
+  "version": "1.0.0",
+  "description": "outline portal server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nandakyawwin/outline-portal-server.git"
+  },
+  "keywords": [
+    "outline",
+    "web manager"
+  ],
+  "author": "Nanda Kyaw Win",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nandakyawwin/outline-portal-server/issues"
+  },
+  "homepage": "https://github.com/Nandakyawwin/outline-portal-server#readme"
+}
